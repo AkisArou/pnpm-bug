@@ -1,0 +1,6 @@
+{
+  "name": "first-package",
+  "dependencies": {
+    "@heroui/react": "catalog:"
+  }
+}
